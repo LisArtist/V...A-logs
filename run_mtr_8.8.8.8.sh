@@ -3,9 +3,12 @@ set -u
 
 TARGET="8.8.8.8"
 LOG_DIR="/root/logs/mtr"
-REMOTE_URL="https://github.com/LisArtist/V...A-logs.git"
+REMOTE_URL="git@github.com:LisArtist/V...A-logs.git"
 BRANCH="main"
 TZ_NAME="Europe/Moscow"
+GIT_SSH_COMMAND="ssh -i /root/.ssh/mtr_github_ed25519 -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new"
+
+export GIT_SSH_COMMAND
 
 LOG_FILE="${LOG_DIR}/mtr_${TARGET}_$(TZ="$TZ_NAME" date '+%F').log"
 LOCK_FILE="/tmp/run_mtr_${TARGET//./_}.lock"
