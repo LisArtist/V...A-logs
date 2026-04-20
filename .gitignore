@@ -1,0 +1,3 @@
+run_mtr.cron.log
+*.tmp
+.codex
