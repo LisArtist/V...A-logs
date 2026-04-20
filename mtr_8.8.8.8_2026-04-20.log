@@ -215,3 +215,35 @@ HOST: vdska                              Loss%   Snt   Last   Avg  Best  Wrst St
         216.239.57.151            
      AS15169  216.239.57.151
 
+===== 2026-04-20 17:30:01 MSK =====
+Start: 2026-04-20T14:30:01+0000
+HOST: vdska                              Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS49791  _gateway                   11.2%   500    0.5   7.4   0.4 1078.  70.4
+  2. AS49791  45.144.48.245              14.6%   500    1.0  64.1   0.6 946.3 196.6
+        45.144.48.244             
+     AS49791  45.144.48.244
+  3. AS6939   e0-10.switch1.waw1.he.net  27.2%   500    1.2  89.0   0.6 1028. 214.5
+        45.144.48.245             
+     AS49791  45.144.48.245
+        warsaw-lim-b1-ae5-vlan3660.fiord.net
+     AS28917  warsaw-lim-b1-ae5-vlan3660.fiord.net
+  4. AS6939   be47.core1.waw1.he.net     13.0%   500    3.5  41.6   0.7 878.7 134.8
+        warsaw-lim-b1-ae5-vlan3660.fiord.net
+     AS28917  warsaw-lim-b1-ae5-vlan3660.fiord.net
+        vilnius-sk-b1-ae2-vlan3602.fiord.net
+     AS28917  vilnius-sk-b1-ae2-vlan3602.fiord.net
+  5. AS???    google1.plix.pl            28.0%   500    0.9  34.1   0.7 790.7 101.5
+        vilnius-sk-b1-ae2-vlan3602.fiord.net
+     AS28917  vilnius-sk-b1-ae2-vlan3602.fiord.net
+  6. AS15169  64.233.174.229             66.0%   500    1.1 105.0   1.0 947.7 233.1
+        google-stk-gw.fiord.net   
+     AS28917  google-stk-gw.fiord.net
+  7. AS15169  209.85.253.225             20.8%   500    2.5 135.0   0.9 950.5 263.7
+        google-stk-gw.fiord.net   
+     AS28917  google-stk-gw.fiord.net
+  8. AS15169  dns.google                 11.6%   500    5.9  98.9   0.9 1318. 231.5
+        216.239.57.151            
+     AS15169  216.239.57.151
+        209.85.241.225            
+     AS15169  209.85.241.225
+
