@@ -26,3 +26,27 @@ HOST: vdska                                         Loss%   Snt   Last   Avg  Be
      AS15169  dns.google
  10. AS15169  dns.google                             0.7%   298   21.9  21.9  21.5  25.1   0.3
 
+===== 2026-04-22 00:30:01 MSK =====
+Start: 2026-04-21T21:30:01+0000
+HOST: vdska                              Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS49791  _gateway                    0.0%   500    0.8   0.7   0.4  12.4   0.7
+  2. AS49791  45.144.48.245               0.2%   500    2.2   1.1   0.5   6.3   0.6
+        45.144.48.244             
+     AS49791  45.144.48.244
+  3. AS6939   e0-10.switch1.waw1.he.net   3.6%   500    2.6   1.3   0.6  39.4   2.0
+        45.144.48.245             
+     AS49791  45.144.48.245
+  4. AS6939   be47.core1.waw1.he.net      0.0%   500    3.0   3.9   0.7  36.6   4.4
+        warsaw-lim-b1-ae5-vlan3660.fiord.net
+     AS28917  warsaw-lim-b1-ae5-vlan3660.fiord.net
+  5. AS???    google1.plix.pl             0.6%   500    1.1   8.0   0.8  72.9   7.8
+        vilnius-sk-b1-ae2-vlan3602.fiord.net
+     AS28917  vilnius-sk-b1-ae2-vlan3602.fiord.net
+  6. AS15169  64.233.174.229             79.2%   500    1.3   1.5   0.8   6.7   0.9
+  7. AS15169  209.85.253.225              0.2%   500    2.2  17.6   0.8  24.6   8.3
+        google-stk-gw.fiord.net   
+     AS28917  google-stk-gw.fiord.net
+  8. AS15169  dns.google                  0.0%   500    2.7  17.7   0.9  27.1   8.4
+        216.239.57.151            
+     AS15169  216.239.57.151
+
