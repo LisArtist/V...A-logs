@@ -54,3 +54,43 @@ HOST: vdska                                         Loss%   Snt   Last   Avg  Be
   9. AS15169  209.85.241.225                        17.2%   500  3811. 177.4  22.2 3811. 666.2
  10. AS15169  dns.google                            17.4%   500  3621. 184.8  21.5 3705. 683.8
 
+===== 2026-04-23 02:00:01 MSK =====
+Start: 2026-04-22T23:00:01+0000
+HOST: vdska                           Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS49791  _gateway                46.8%   500  3594. 648.5   0.4 5129. 1298.9
+        weareoctane.space      
+     AS49791  weareoctane.space
+  2. AS49791  45.144.48.245           47.6%   500  3478. 597.2   0.5 3766. 1224.8
+        45.144.48.244          
+     AS49791  45.144.48.244
+        weareoctane.space      
+     AS49791  weareoctane.space
+  3. AS6939   e0-10.switch1.waw1.he.net 46.4%   500  3585. 667.2   0.5 5571. 1314.6
+        45.144.48.245          
+     AS49791  45.144.48.245
+        weareoctane.space      
+     AS49791  weareoctane.space
+  4. AS6939   be47.core1.waw1.he.net  50.0%   500  3571. 630.1   0.7 4660. 1267.1
+        warsaw-lim-b1-ae5-vlan3660.fiord.net
+     AS28917  warsaw-lim-b1-ae5-vlan3660.fiord.net
+        weareoctane.space      
+     AS49791  weareoctane.space
+  5. AS???    google1.plix.pl         48.0%   500  3526. 594.4   0.8 3830. 1225.0
+        vilnius-sk-b1-ae2-vlan3602.fiord.net
+     AS28917  vilnius-sk-b1-ae2-vlan3602.fiord.net
+        weareoctane.space      
+     AS49791  weareoctane.space
+  6. AS15169  64.233.174.229          93.6%   500  3481. 567.1   0.9 3617. 1180.7
+        weareoctane.space      
+     AS49791  weareoctane.space
+  7. AS15169  209.85.253.225          45.6%   500  3373. 729.7   0.8 3854. 1334.2
+        google-stk-gw.fiord.net
+     AS28917  google-stk-gw.fiord.net
+        weareoctane.space      
+     AS49791  weareoctane.space
+  8. AS15169  dns.google              46.6%   500  3518. 671.5   1.0 4036. 1282.3
+        216.239.57.151         
+     AS15169  216.239.57.151
+        weareoctane.space      
+     AS49791  weareoctane.space
+
