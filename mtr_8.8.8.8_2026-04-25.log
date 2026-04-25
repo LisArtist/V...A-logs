@@ -88,3 +88,31 @@ HOST: vdska                              Loss%   Snt   Last   Avg  Best  Wrst St
   7. AS15169  209.85.253.225              0.2%   500    1.6   1.2   0.7   4.4   0.5
   8. AS15169  dns.google                  0.0%   500    1.1   1.2   0.9   2.7   0.3
 
+===== 2026-04-25 03:00:01 MSK =====
+Start: 2026-04-25T00:00:01+0000
+HOST: vdska                           Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS49791  _gateway                24.0%   500  3274. 412.1   0.4 5519. 1118.4
+        weareoctane.space      
+     AS49791  weareoctane.space
+  2. AS49791  45.144.48.245           25.4%   500  3286. 346.4   0.5 3656. 1017.1
+        weareoctane.space      
+     AS49791  weareoctane.space
+  3. AS6939   e0-10.switch1.waw1.he.net 40.0%   500  3243. 354.5   0.9 3682. 1028.8
+        weareoctane.space      
+     AS49791  weareoctane.space
+  4. AS6939   be47.core1.waw1.he.net  28.4%   500  3331. 237.4   1.6 5241. 864.1
+        weareoctane.space      
+     AS49791  weareoctane.space
+  5. AS???    google1.plix.pl         25.8%   500  3346. 341.2   0.7 3702. 1008.3
+        weareoctane.space      
+     AS49791  weareoctane.space
+  6. AS15169  64.233.174.229          26.8%   500  3326. 299.1   0.8 3663. 946.8
+        weareoctane.space      
+     AS49791  weareoctane.space
+  7. AS15169  209.85.253.225          26.0%   500  3350. 335.9   0.8 3651. 1004.1
+        weareoctane.space      
+     AS49791  weareoctane.space
+  8. AS15169  dns.google              26.0%   500  3469. 336.3   0.9 3693. 1007.6
+        weareoctane.space      
+     AS49791  weareoctane.space
+
