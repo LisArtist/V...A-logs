@@ -514,3 +514,20 @@ HOST: vdska                                      Loss%   Snt   Last   Avg  Best 
      AS49791  weareoctane.space
   5. AS49791  weareoctane.space                  99.4%   500  323.0 1315. 323.0 2313. 995.1
 
+===== 2026-07-30 19:00:01 MSK =====
+Start: 2026-07-30T16:00:01+0000
+HOST: vdska                                      Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS49791  _gateway                            0.6%   500    0.4  18.2   0.4 2435. 180.3
+        weareoctane.space                 
+     AS49791  weareoctane.space
+  2. AS49791  45.144.48.244                       0.4%   500    0.6  17.2   0.5 2324. 170.1
+        weareoctane.space                 
+     AS49791  weareoctane.space
+  3. AS49791  45.144.48.245                       0.6%   500    0.5  15.9   0.5 2213. 160.5
+        weareoctane.space                 
+     AS49791  weareoctane.space
+  4. AS28917  waw-lim-b1-ae1-vlan3660.fiord.net   0.4%   500    1.0  25.3   0.6 3104. 204.4
+        weareoctane.space                 
+     AS49791  weareoctane.space
+  5. AS49791  weareoctane.space                  98.6%   500   72.2 1749.  72.2 3069. 1102.4
+
