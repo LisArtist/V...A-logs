@@ -497,3 +497,20 @@ HOST: vdska                                      Loss%   Snt   Last   Avg  Best 
   8. AS15169  142.251.48.41                       0.4%   500   22.9  22.6  21.6  30.1   1.4
   9. AS15169  dns.google                          0.4%   500   21.7  22.5  21.4  31.3   1.4
 
+===== 2026-07-30 18:30:01 MSK =====
+Start: 2026-07-30T15:30:01+0000
+HOST: vdska                                      Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS49791  _gateway                            1.0%   500    1.8  14.8   0.4 2758. 158.3
+        weareoctane.space                 
+     AS49791  weareoctane.space
+  2. AS49791  45.144.48.244                       0.6%   500    0.7  13.5   0.5 2647. 148.5
+        weareoctane.space                 
+     AS49791  weareoctane.space
+  3. AS49791  45.144.48.245                       0.4%   500    1.0  12.4   0.5 2535. 139.2
+        weareoctane.space                 
+     AS49791  weareoctane.space
+  4. AS28917  waw-lim-b1-ae1-vlan3660.fiord.net   1.0%   500    1.6  15.1   0.7 2424. 130.6
+        weareoctane.space                 
+     AS49791  weareoctane.space
+  5. AS49791  weareoctane.space                  99.4%   500  323.0 1315. 323.0 2313. 995.1
+
