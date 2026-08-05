@@ -297,3 +297,26 @@ HOST: vdska                                      Loss%   Snt   Last   Avg  Best 
   8. AS15169  142.251.48.41                       0.4%   500   21.7  21.6  21.6  22.8   0.2
   9. AS15169  dns.google                          0.0%   500   21.5  21.5  21.4  22.6   0.2
 
+===== 2026-08-05 11:30:01 MSK =====
+Start: 2026-08-05T08:30:01+0000
+HOST: vdska                                          Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1. AS49791  _gateway                                0.0%   500    0.7   0.4   0.3   1.5   0.1
+  2. AS49791  45.144.48.244                           0.0%   500    0.6   0.5   0.5   2.5   0.2
+  3. AS49791  45.144.48.245                          85.4%   500  498.3 331.7   0.5 520.2 218.7
+  4. AS28917  waw-lim-b1-ae1-vlan3660.fiord.net       0.0%   500    1.1   5.7   0.6 352.4  35.5
+        be9685.rcr21.b016833-0.waw01.atlas.cogentco.com
+     AS174    be9685.rcr21.b016833-0.waw01.atlas.cogentco.com
+  5. AS174    be2486.ccr21.waw01.atlas.cogentco.com  27.8%   500    1.4   1.6   1.1  21.1   2.4
+  6. AS15169  142.250.160.114                         3.2%   500   21.6  19.3  14.2 353.6  31.1
+        be2478.ccr22.bts01.atlas.cogentco.com 
+     AS174    be2478.ccr22.bts01.atlas.cogentco.com
+  7. AS15169  142.250.236.117                         0.0%   500   21.6  22.1  15.3 332.7  32.1
+        be9457.ccr82.vie01.atlas.cogentco.com 
+     AS174    be9457.ccr82.vie01.atlas.cogentco.com
+  8. AS15169  142.251.48.41                           0.0%   500   21.8  24.7  20.9 330.6  31.8
+        be9456.ccr22.muc03.atlas.cogentco.com 
+     AS174    be9456.ccr22.muc03.atlas.cogentco.com
+  9. AS15169  dns.google                              0.2%   500   21.6  29.2  21.4 350.4  33.1
+        be7944.ccr42.fra05.atlas.cogentco.com 
+     AS174    be7944.ccr42.fra05.atlas.cogentco.com
+
